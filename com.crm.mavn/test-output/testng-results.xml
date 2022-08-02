@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T16:09:56 IST" name="Default suite" finished-at="2022-07-18T16:09:56 IST" duration-ms="84">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T16:09:56 IST" name="Default test" finished-at="2022-07-18T16:09:56 IST" duration-ms="84">
+      <class name="com.crm.assginment.Practice">
+        <test-method signature="pratice()[pri:0, instance:com.crm.assginment.Practice@6340e5f0]" started-at="2022-07-18T16:09:56 IST" name="pratice" finished-at="2022-07-18T16:09:56 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pratice -->
+        <test-method signature="pratice1()[pri:0, instance:com.crm.assginment.Practice@6340e5f0]" started-at="2022-07-18T16:09:56 IST" name="pratice1" finished-at="2022-07-18T16:09:56 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pratice1 -->
+        <test-method signature="pratice2()[pri:0, instance:com.crm.assginment.Practice@6340e5f0]" started-at="2022-07-18T16:09:56 IST" name="pratice2" finished-at="2022-07-18T16:09:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pratice2 -->
+      </class> <!-- com.crm.assginment.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
